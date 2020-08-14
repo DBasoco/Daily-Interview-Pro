@@ -1,5 +1,5 @@
-# Today we have:
-# Merge K Sorted Linked Lists You are given an array of K sorted singly linked lists. Merge the linked
+# Today we have: Merge K Sorted Linked Lists 
+# You are given an array of K sorted singly linked lists. Merge the linked
 # lists into a single sorted linked list and return it.
 
 class Node(object):
