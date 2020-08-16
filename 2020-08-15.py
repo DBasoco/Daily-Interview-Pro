@@ -1,5 +1,5 @@
-# Today we have: Create a Balanced Binary Search Tree Given a sorted list of numbers, change it into a balanced
-# binary search tree. You can assume there will be no duplicate numbers in the list.
+# Today we have: Create a Balanced Binary Search Tree
+# Given a sorted list of numbers, change it into a balanced binary search tree. You can assume there will be no duplicate numbers in the list.
 
 from collections import deque
 import math
